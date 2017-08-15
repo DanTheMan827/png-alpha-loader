@@ -36,7 +36,7 @@ module.exports = function (content) {
     height: png.height
   }
 
-  for (var i = 0; i < png.data.length; i += 4) {
+  for (var i = 3; i < png.data.length; i += 4) {
     output.alpha.push(png.data[i])
   }
 
