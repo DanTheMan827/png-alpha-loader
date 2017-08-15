@@ -1,0 +1,23 @@
+{
+  "name": "png-alpha-loader",
+  "version": "1.0.0",
+  "author": "Daniel Radtke (DanTheMan827)",
+  "description": "PNG alpha loader for webpack",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "loader-utils": "^1.0.2",
+    "pngjs": "^3.3.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanTheMan827/png-alpha-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanTheMan827/png-alpha-loader/issues"
+  },
+  "homepage": "https://github.com/DanTheMan827/png-alpha-loader"
+}
