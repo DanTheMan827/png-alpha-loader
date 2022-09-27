@@ -65,11 +65,8 @@ var mask = require('./image.mask.png');
 
 **In your application**
 ```js
-var mask = require('raw-loader!./image.mask.png')
+var mask = require('png-alpha-loader!./image.mask.png')
 ```
 
 [npm]: https://img.shields.io/npm/v/png-alpha-loader.svg
 [npm-url]: https://npmjs.com/package/png-alpha-loader
-
-[deps]: https://david-dm.org/dantheman827/png-alpha-loader.svg
-[deps-url]: https://david-dm.org/dantheman827/png-alpha-loader
