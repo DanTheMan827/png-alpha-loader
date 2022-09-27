@@ -1,5 +1,4 @@
 [![npm][npm]][npm-url]
-[![deps][deps]][deps-url]
 
 <div align="center">
   <img width="200" height="200"
