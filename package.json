@@ -5,7 +5,9 @@
   "description": "PNG alpha loader for webpack",
   "license": "MIT",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"I don't have any tests.\""
+  },
   "dependencies": {
     "loader-utils": "^1.0.2",
     "pngjs": "^3.3.0"
